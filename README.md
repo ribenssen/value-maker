@@ -3,7 +3,7 @@ Project for building an ecosystem promoting the digitalization of enterprises an
 We help create digital solutions with value-adding concepts and agility.
 
 # Value-Maker product
-Value-Maker is a product by Ribenssen SoftGram, a department of Ribenssen.
+Value-Maker is a product by SoftGram, a department of Ribenssen.
 
 ## What it is not
 Value-Maker is not a platform, neither a library.
