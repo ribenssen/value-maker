@@ -1,2 +1,2 @@
 # value-maker
-project for ecosystem promoting the digitalization of organizations by building value-added solutions
+project for building an ecosystem promoting the digitalization of enterprises and administrations by leveraging value-added solutions
