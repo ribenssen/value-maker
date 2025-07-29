@@ -76,7 +76,7 @@ Our distribution chain:
 - Vendor: sale to enterprises, admnistrations
 
 ## Licensing
-Value-Maker is shipped in a proprietary license
+Value-Maker is shipped in a proprietary license. Community version will be free.
 
 ## Contribution
 The community, an enterprise, the public administration may contribute to the project and the product.
