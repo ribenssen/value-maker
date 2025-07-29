@@ -1,22 +1,22 @@
-# value-maker
+# Value-Maker
 Project for building an ecosystem promoting the digitalization of enterprises and public administrations by leveraging value-added solutions and composing value-chains.
 We help create digital solutions with value-adding concepts and agility.
 
-# Value-Maker product:
-Value-Maker is a product by Ribenssen SoftGram (bitByte), a department of Ribenssen.
+# Value-Maker product
+Value-Maker is a product by Ribenssen SoftGram, a department of Ribenssen.
 
-# What it is not
+## What it is not
 Value-Maker is not a platform, neither a library.
 
 
-# What it is
+## What it is
 Value-Maker is the implementation of standards on Value-Adding Strategies.
 Value-Maker is an environment for combining very small services, apps, operations like a value 
 in the value-chain way. you achieve it by creating one or more tags.
  A tag is a small piece of a service, operation or app.
  
  
-# How It Works
+## How It Works
  It is very simple.
  1- create one or more tags (like an operation or a service).
  2- chain the tags created like a chain
@@ -25,7 +25,7 @@ in the value-chain way. you achieve it by creating one or more tags.
  
  
  
-# Components
+## Components
 Value-Maker has elements that you need to build a service, an operation, an app, a module, a platform, a SaaS, etc.
 
 - Tag
@@ -38,7 +38,7 @@ Value-Maker has elements that you need to build a service, an operation, an app,
 - Product
 - Project
 
-# Sharing Environment
+## Sharing Environment
 Value-Maker has 3 main environments:
 - Admin console
 - Repository Central
@@ -48,12 +48,12 @@ When you create a tag (service or operation), you register it with the Admin con
 When you want to make that tag available at your organization wide, you publish it to the Repository.
 When you want to make that tag available to people outside your organization, you publish it to the Store.
 
-# High-Availability
+## High-Availability
 The purpose of this ecosystem is to continously provision an organization world-wide with value-added solutions (services, operations, apps, modules...) 
 in a quick and simple way, far from heavy platforms
 
 
-# Pricing
+## Pricing
 Our products catalogue:
 - Community : free
 - Standard,
@@ -62,26 +62,26 @@ Our products catalogue:
 - Firm,
 - Public Administration
 
-# Partnership
+## Partnership
 We need partnering so as to evolve this ecosystem, making it fully comprehensive of specific needs for businesses and public administrations.
 As a partner we help you integrate value-added solutions and concepts in your organization.
 
-# Sponsorship
+## Sponsorship
 We need sponsors to finance these productive efforts.
 
-# Distribution
+## Distribution
 Our distribution chain:
 - Distributor: distribute directly from Ribenssen Digital (BitByte) 
 - Supplier: supply to vendors (whole saler)
 - Vendor: sale to enterprises, admnistrations
 
-# Licensing
+## Licensing
 Value-Maker is shipped in a proprietary license
 
-# Contribution
+## Contribution
 The community, an enterprise, the public administration may contribute to the project and the product.
 
-# contact us
+## contact us
 for information or a demo request, mail us at
 ribenssen@gmail.com
-Subject: Value-Maker by DataGram
+Subject: Value-Maker by SoftGram
