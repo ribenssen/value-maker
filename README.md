@@ -71,7 +71,7 @@ We need sponsors to finance these productive efforts.
 
 ## Distribution
 Our distribution chain:
-- Distributor: distribute directly from Ribenssen Digital (BitByte) 
+- Distributor: distribute directly from Ribenssen SoftGram 
 - Supplier: supply to vendors (whole saler)
 - Vendor: sale to enterprises, admnistrations
 
